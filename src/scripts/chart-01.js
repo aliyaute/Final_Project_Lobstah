@@ -14,6 +14,7 @@ const svg = d3
 
 const months = [
   'Jan',
+
   'Feb',
   'Mar',
   'Apr',
@@ -23,6 +24,7 @@ const months = [
   'Aug',
   'Sept',
   'Oct',
+
   'Nov',
   'Dec'
 ]
